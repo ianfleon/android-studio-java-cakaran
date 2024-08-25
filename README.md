@@ -3,6 +3,7 @@
 #### Referensi Bacaan
 
 - https://www.codecademy.com/learn/developing-an-android-application/modules/building-android-apps/cheatsheet
+- https://badoystudio.com/belajar-android-untuk-pemula/
 
 #### Membuat tema dan menerapkannya di projek
 
