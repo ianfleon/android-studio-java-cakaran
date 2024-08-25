@@ -1,9 +1,9 @@
 # Cakaran untuk Android Studio (Java)
 
-## Reference
+#### Referensi Bacaan
 
 - https://www.codecademy.com/learn/developing-an-android-application/modules/building-android-apps/cheatsheet
 
-## Layout
+#### Membuat tema dan menerapkannya di projek
 
-- LinearLayout
+- https://developer.android.com/develop/ui/views/theming/themes
